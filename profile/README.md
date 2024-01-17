@@ -11,6 +11,7 @@ CEO Nathaniel Ramirez [@nathanielrz](https://github.com/nathanielrz)
 
 ### Acknowledgments
 Vexon is made with JavaScript JSX and TypeScript JSX
+- [Cloudflare](https://cloudflare.com) DNS
 - [MUI](https://github.com/mui)
 - [Nuka carousel](https://github.com/FormidableLabs/nuka-carouse)
 - [Vite](https://vitejs.dev)
