@@ -9,8 +9,8 @@ why did we rebrand the old website? If I ever created careers I wouldnt want it 
 CEO Nathaniel Ramirez [@nathanielrz](https://github.com/nathanielrz)
 
 ### Acknowledgments
-Vexon is made with TypeScript JSX
+Vexon is made with TypeScript
 - [Cloudflare](https://cloudflare.com) DNS
 - [MUI](https://github.com/mui)
-- [Nuka carousel](https://github.com/FormidableLabs/nuka-carouse)
+- [SwiperJS](https://swiperjs.com/)
 - [Vite](https://vitejs.dev)
