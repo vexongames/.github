@@ -11,5 +11,6 @@ Nathaniel [@nathanielrz](https://github.com/nathanielrz)
 Vexon is made with TypeScript
 - [Cloudflare](https://cloudflare.com) DNS
 - [MUI](https://github.com/mui)
+- [Tailwind CSS](https://tailwindcss.com)
 - [SwiperJS](https://swiperjs.com/)
 - [Vite](https://vitejs.dev)
