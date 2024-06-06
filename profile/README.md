@@ -1,5 +1,5 @@
 # VexonGames
-Our website isn't open source but we will most likely post our SDKs here, this is a rebrand of [nate-games](https://nate-games.github.io) but it has returned in May 2024.
+Our website isn't open source but we will most likely post our SDKs here.
 
 ### Websites
 - [vexon.games](https://vexon.games)
