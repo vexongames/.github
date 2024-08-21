@@ -5,7 +5,7 @@ Our website isn't open source but we will most likely post our SDKs here.
 - [vexon.games](https://vexon.games)
 - [vexongames.vercel.app](https://vexongames.vercel.app)
 ### Developed By
-Nathaniel [@nathanielrz](https://github.com/nathanielrz)
+Nathaniel [@nathanielrz](https://github.com/sudo-njr)
 
 ### Acknowledgments
 VexonGames is made with TypeScript
