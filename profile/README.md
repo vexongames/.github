@@ -11,4 +11,4 @@ Nathaniel [@nathanielrz](https://github.com/sudo-njr)
 VexonGames is made with TypeScript
 - [Cloudflare](https://cloudflare.com) Hoster & DNS
 - [Tailwind CSS](https://tailwindcss.com)
-- [SwiperJS](https://swiperjs.com/)
+- [NextJS](https://nextjs.org/)
