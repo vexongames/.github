@@ -3,7 +3,7 @@ Our website isn't open source but we will most likely post our SDKs here.
 
 ### Websites
 - [vexon.games](https://vexon.games)
-- [vexon.pages.dev](https://vexon.pages.dev)
+- [vexongames.vercel.app](https://vexongames.vercel.app)
 ### Developed By
 Nathaniel [@nathanielrz](https://github.com/nathanielrz)
 
